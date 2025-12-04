@@ -62,7 +62,7 @@ const Navbar: React.FC = () => {
               <ShieldCheck className="h-5 w-5 text-cyber-500" />
             </div>
             <span className="font-mono font-bold text-lg tracking-tighter text-white">
-              MUSTY<span className="text-cyber-500">_EL_HACKER</span>
+              Vargas<span className="text-cyber-500">_EL_HACKER</span>
             </span>
           </a>
 
